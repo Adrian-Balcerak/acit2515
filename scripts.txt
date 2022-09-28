@@ -1,0 +1,6 @@
+create virtual environment
+py -m venv venv
+
+activate virtual environment
+.\venv\Scripts\activate.bat (Windows command line)
+.\venv\Scripts\activate.ps1 (Windows Powershell)
